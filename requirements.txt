@@ -1,0 +1,10 @@
+numpy
+gymnasium
+pettingzoo
+supersuit
+stable-baselines3
+torch
+skyfield
+imageio
+matplotlib
+pandas

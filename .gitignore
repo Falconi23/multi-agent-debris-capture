@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.bsp
+hip_main.dat
+
+# Intermediate SB3 checkpoints (only *_latest.zip are versioned)
+marl_debris_capture/*_steps.zip
